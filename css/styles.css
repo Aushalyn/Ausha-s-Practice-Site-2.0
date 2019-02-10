@@ -70,7 +70,7 @@ a:hover {
 
 /*************************TEXT STYLES*******************************/
 
-.preprogrammer {
+.sup {
   color: #66BFBF;
   font-size: 2.5rem;
   font-weight: normal;
@@ -99,22 +99,17 @@ a:hover {
 }
 
 
-.sun {
-  height: 300px;
-  width: 700px;
-}
-
 .space {
   position: absolute;
   height: 260px;
-  width: 1262px;
+  width: 126.3%;
   left: 0;
   top: 0;
 }
 
 .bottom-cloud {
   height: 600px;
-  width: 1262px;
+  width: 126.3%;
   position: absolute;
   left: 0;
   bottom: 0;
