@@ -102,14 +102,14 @@ a:hover {
 .space {
   position: absolute;
   height: 260px;
-  width: 126.3%;
+  width: 100%;
   left: 0;
   top: 0;
 }
 
 .bottom-cloud {
   height: 600px;
-  width: 126.3%;
+  width: 100%;
   position: absolute;
   left: 0;
   bottom: 0;
